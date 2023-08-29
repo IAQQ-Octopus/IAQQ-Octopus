@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on Octopus Proptech :octopus:
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Vue2 | Vue3 || PHP + Laravel**
 
-- 📫 How to reach me **iquiroz@octopus.com.ar**
+- 📫 How to reach me **iquiroz@octopus.com.ar** | **ivan.alfredo.q.q@gmail.com**
 
 - ⚡ Improving **My React & React Native skills**
 
